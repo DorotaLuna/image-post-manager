@@ -1,5 +1,7 @@
 # Image Post Manager
 
+<img alt="preview" src="./preview.png" />
+
 一个自用的 Windows 本地图片管理小工具，用图组整理 AI 生成的图片，方便像浏览图片网站一样回看自己的作品。
 
 除手动复制 ComfyUI 工作流外，不分析提示词或图片元数据。
